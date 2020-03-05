@@ -1,0 +1,23 @@
+{
+  "name": "Carmen-kaman.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w SASS/ -o CSS/ --recusive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carmen-kaman/Carmen-kaman.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carmen-kaman/Carmen-kaman.github.io/issues"
+  },
+  "homepage": "https://github.com/Carmen-kaman/Carmen-kaman.github.io#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
